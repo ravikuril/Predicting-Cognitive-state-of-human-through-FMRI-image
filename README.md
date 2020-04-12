@@ -1,4 +1,27 @@
-# FMRI_macihine_learning_project
+
+Project Title:
+#Predicting Cognitive state of human through FMRI image.
+Brief:
+There are different case studies in which classifiers are trained to distinguish cognitive
+states such as:
+(1) Whether the human subject is looking at a picture.
+(2) Whether the subject is reading an ambiguous or non-ambiguous sentence.
+(3) Whether the word the subject is viewing is a word describing food, people
+buildings, etc. (Predicting the word from Brain Image).
+
+
+
+Challenges:
+This learning problem provides an interesting case study of classifier learning from
+extremely high dimensional , extremely sparse (tens of training examples), noisy data.
+Since we have the curse of dimensionality and less training data we will have to use
+different techniques on different classifiers (SVM,GNB…) to maximize the accuracy of
+the trained classifier.
+Note – We have not described the project in great detail as we have chosen the project
+from the proposals given by you. If it is required in detail we can give it too.
+
+
+
 Application of the mentioned papers 
 https://www.cs.cmu.edu/~tom/nips03-submitted.pdf
 
